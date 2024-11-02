@@ -54,6 +54,7 @@
 pip install scrapy
 
 
-##**Запуск**
+##**Запуск**scrapy crawl fixprice_test -o fixprice_data.json
+
 
 scrapy crawl fixprice_test -o fixprice_data.json
